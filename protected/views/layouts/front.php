@@ -194,56 +194,6 @@
 </head>
 
 <body>
-<section id="header-wrapper" class="clearfix">
-    
-<div id="header-v3" class="clearfix">
-  <div id="top-bar" class="clearfix">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6 col-sm-6 col-xs-12">
-          <div class="tagline">
-                        Online delivery software for medical marijuana dispensaries                      </div>
-        </div>
-        <div class="col-md-6 col-sm-6 col-xs-12">
-          <div class="call-number">
-                        Call us today: 503 922 1026                 </div>
-                    <div class="header-wiget-area">
-                        <div id="text-3" class="widget widget_text">			<div class="textwidget"></div>
-		</div><div id="text-4" class="widget widget_text">			<div class="textwidget"></div>
-		</div>                      </div>
-                  </div>
-      </div>
-    </div>
-  </div>
-  <!-- #topbar -->
-  
-  <div id="header">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4 col-sm-4 col-xs-12 logo">
-          <a href="http://www.weedhero.net/" title="Online delivery and pickup system for medical marijuana dispensaries"><img src="http://www.weedhero.net/wp-content/uploads/2017/05/logo_weedhero.png" alt="Online delivery and pickup system for medical marijuana dispensaries"></a>
-        </div>
-        <!-- .logo -->
-        
-        <div class="col-md-8 col-sm-8 col-xs-12 clearfix">
-          <div id="smoothmenu" class="ddsmoothmenu"><ul id="nav" class="menu"><li id="menu-item-2019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2019"><a href="http://www.weedhero.net/">Home</a></li>
-<li id="menu-item-135" class="menu-item menu-item-type-custom menu-item-object-custom  current-menu-item page_item page-item-32 current_page_item menu-item-135"><a target="_blank" href="http://www.weedhero.net/marijuana-online-ordering-software/">Demo</a></li>
-<li id="menu-item-2377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2377"><a href="http://www.weedhero.net/software-features/">Features</a></li>
-<li id="menu-item-2016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2016"><a href="http://www.weedhero.net/support/">FAQ</a></li>
-<li id="menu-item-2134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2134"><a href="http://www.weedhero.net/about-us/">About Us</a></li>
-<li id="menu-item-2310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2310"><a href="http://www.weedhero.net/pricing/">Pricing</a></li>
-<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://www.weedhero.net/contact/">Contact US</a></li>
-<li id="menu-item-2238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2238"><a target="_blank" href="http://www.weedhero.net/control/status">Log in</a></li>
-</ul></div>        </div>
-        <!-- #menu --> 
-        
-      </div>
-    </div>
-  </div>
-  <!-- #header --> 
-</div>
-<!-- #header variation --> </section>
-
 <?php if(MMSettingsForm::getParam('enable_social')){ ?>
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
