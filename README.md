@@ -1,5 +1,7 @@
 # weedhero
-Online ordering software for cannabis dispensaries
+Online ordering software for cannabis dispensaries and delivery
+
+Installation Instructions:
 
 Step 1: Download weedhero software from github.
 
