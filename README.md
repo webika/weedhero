@@ -3,6 +3,10 @@ Online ordering software for cannabis dispensaries and delivery
 
 Installation Instructions:
 
+Requirements:
+PHP 7.0 
+Mysql 
+
 Step 1: Download weedhero software from github.
 
 Step 2: Unzip the repository (archive) and upload the folder content to a destination folder on your server where you would like to install online ordering (for example www/mydomain.com/order)
